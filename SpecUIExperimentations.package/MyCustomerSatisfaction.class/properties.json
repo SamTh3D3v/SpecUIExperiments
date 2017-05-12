@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "ComposableModel",
+	"category" : "SpecUIExperimentations",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"buttonH",
+		"buttonN",
+		"buttonB",
+		"screen"
+	],
+	"name" : "MyCustomerSatisfaction",
+	"type" : "normal"
+}
