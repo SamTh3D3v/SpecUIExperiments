@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "ComposableModel",
+	"category" : "SpecUIExperimentations",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"colorsList",
+		"iconsList"
+	],
+	"name" : "MyListSample",
+	"type" : "normal"
+}
